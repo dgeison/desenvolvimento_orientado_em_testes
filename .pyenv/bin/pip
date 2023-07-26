@@ -1,4 +1,4 @@
-#!/home/dgeison/projetos/tddPython/.pyenv/bin/python3
+#!/home/dgeison/projetos/alura_tdd/.pyenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
