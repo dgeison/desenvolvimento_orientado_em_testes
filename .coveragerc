@@ -1,5 +1,10 @@
 [run]
 
+source = ./codigo
+
 [report]
 exclude_lines = 
     def nome
+
+[html]
+directory = coverage/reports_html
